@@ -1,0 +1,20 @@
+{
+    "name": "davidvandertuijn/date_fuzzy_span",
+    "description": "Date Fuzzy Span",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David van der Tuijn",
+            "email": "davidvandertuijn@mac.com"
+        }
+    ],
+    "require": {
+        "php": ">=4.0"
+    },
+    "autoload": {
+        "files": [
+            "src/date_fuzzy_span.php"
+        ]
+    }
+}
