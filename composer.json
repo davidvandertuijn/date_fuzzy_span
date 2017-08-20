@@ -10,11 +10,11 @@
         }
     ],
     "require": {
-        "php": ">=4.0"
+        "php": ">=5.3.0"
     },
     "autoload": {
-        "files": [
-            "src/date_fuzzy_span.php"
-        ]
+        "psr-4": {
+            "Davidvandertuijn\\": "src/"
+        }
     }
 }
