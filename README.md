@@ -13,8 +13,8 @@ composer require davidvandertuijn/date_fuzzy_span
 ## Usage
 
 ```php
-DateFuzySpan::output(time() - 10); // moments ago
-DateFuzySpan::output(time() + 20); // in moments
+date_fuzzy_span(time() - 10); // moments ago
+date_fuzzy_span(time() + 20); // in moments
 ```
 
 ## Localization
@@ -38,6 +38,6 @@ The default output is English:
 * a couple of years ago **|** in a couple of years
 * a few years ago **|** in a few years
 * about a decade ago **|** in about a decade
-* a couple of decades ago **|** in a couple of decades 
+* a couple of decades ago **|** in a couple of decades
 * several decades ago **|** in several decades
 * a long time ago **|** in a long time
