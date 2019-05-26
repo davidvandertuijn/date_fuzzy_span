@@ -7,7 +7,7 @@
  *
  * @return string
  */
-function date_fuzzy_span($iTimestamp)
+function date_fuzzy_span(int $iTimestamp): string
 {
     $iYear = 31556926;
     $iMonth = 2629744;
