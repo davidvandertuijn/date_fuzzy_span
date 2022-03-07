@@ -3,7 +3,6 @@
 <a href="https://packagist.org/packages/davidvandertuijn/date_fuzzy_span"><img src="https://poser.pugx.org/davidvandertuijn/date_fuzzy_span/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/date_fuzzy_span"><img src="https://poser.pugx.org/davidvandertuijn/date_fuzzy_span/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/date_fuzzy_span"><img src="https://poser.pugx.org/davidvandertuijn/date_fuzzy_span/license.svg" alt="License"></a>
-<img src="https://github.styleci.io/repos/100874625/shield?style=flat" alt="StyleCI">
 
 ## Install
 
