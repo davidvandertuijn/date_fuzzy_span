@@ -4,6 +4,8 @@
 <a href="https://packagist.org/packages/davidvandertuijn/date_fuzzy_span"><img src="https://poser.pugx.org/davidvandertuijn/date_fuzzy_span/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/date_fuzzy_span"><img src="https://poser.pugx.org/davidvandertuijn/date_fuzzy_span/license.svg" alt="License"></a>
 
+![Date Fuzzy Span](https://cdn.davidvandertuijn.nl/github/date_fuzzy_span.png)
+
 ## Install
 
 ```
