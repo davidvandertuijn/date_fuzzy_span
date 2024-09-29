@@ -6,6 +6,10 @@
 
 ![Date Fuzzy Span](https://cdn.davidvandertuijn.nl/github/date_fuzzy_span.png)
 
+The “Date Fuzzy Span” tool is designed to help users analyze and interpret date ranges with a degree of flexibility. This functionality is particularly useful for handling uncertain or approximate date values in various applications, such as project management, event planning, and historical analysis.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidvandertuijn)
+
 ## Install
 
 ```
